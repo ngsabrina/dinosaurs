@@ -1,8 +1,3 @@
-# Redcarpet is a markdown processor
-# It's the thing that converts Markdown to html
-# Github uses redcarpet for conversion so we want to remain consistent
 markdown: redcarpet
-
-# The folder our website is hosted in
-# Everthing that comes after ngsabrina.github.io so for our portfolio website it's just a / 
 baseurl: /dinosaurs
+exclude: ['README.md']

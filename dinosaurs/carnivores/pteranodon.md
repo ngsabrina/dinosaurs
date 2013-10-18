@@ -10,7 +10,7 @@ category: carnivore
 source: http://en.wikipedia.org/wiki/Pteradon
 ---
 
-![Pteranodon skeleton](img/pteranodon-skeleton.png)
+![Pteranodon skeleton](img/pteranodon-skeleton.jpg)
 
 Pteranodon is a genus of pterosaurs which included some of the largest known flying reptiles, with wingspans over 6 metres. It existed during the late Cretaceous geological period of North America. More fossil specimens of *Pteranodon* have been found than any other pterosaur, with about 1 200 specimens known to science, many of them well preserved with nearly complete skulls and articulated skeletons.
 
